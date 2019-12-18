@@ -1,0 +1,1 @@
+web:flask db updgrade:gunicorn app
